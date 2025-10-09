@@ -19,6 +19,6 @@ int main() {
 	else{
 		total_bill=units*30;
 	}
-	printf("\nTotal bill for water is Ksh%.2f\n", total_bill);
+	printf("\nTotal bill for water is %.2f KES\n", total_bill);
 	return 0;
 }
